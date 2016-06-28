@@ -10,28 +10,21 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/animation_homework" />
+            <option value="$PROJECT_DIR$/activity" />
+            <option value="$PROJECT_DIR$/activity_register" />
+            <option value="$PROJECT_DIR$/animation" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bindlocalservice" />
             <option value="$PROJECT_DIR$/broadcast_demo" />
+            <option value="$PROJECT_DIR$/broadcastreceiver" />
             <option value="$PROJECT_DIR$/broadcastreceiver_demo" />
-            <option value="$PROJECT_DIR$/day_11_httpclient_demo" />
-            <option value="$PROJECT_DIR$/day_12_json_demo" />
-            <option value="$PROJECT_DIR$/day_12_weather_homework" />
-            <option value="$PROJECT_DIR$/day_12_xml_demo" />
-            <option value="$PROJECT_DIR$/day_13_activity" />
-            <option value="$PROJECT_DIR$/day_14_activity_register" />
-            <option value="$PROJECT_DIR$/day_14_broadcastreceiver_homework" />
-            <option value="$PROJECT_DIR$/day_14_yinyuancalculator" />
-            <option value="$PROJECT_DIR$/day_15_service_demo" />
-            <option value="$PROJECT_DIR$/day_15_weather_service" />
-            <option value="$PROJECT_DIR$/day_16_picture_media" />
-            <option value="$PROJECT_DIR$/day_17_filter_demo" />
-            <option value="$PROJECT_DIR$/day_18_bindlocalservice" />
-            <option value="$PROJECT_DIR$/day_upload_image" />
             <option value="$PROJECT_DIR$/download_demo" />
-            <option value="$PROJECT_DIR$/fragment_homework" />
+            <option value="$PROJECT_DIR$/filter_demo" />
+            <option value="$PROJECT_DIR$/fragment" />
             <option value="$PROJECT_DIR$/hellocharts-library" />
             <option value="$PROJECT_DIR$/hellocharts-samples" />
+            <option value="$PROJECT_DIR$/httpclient_demo" />
+            <option value="$PROJECT_DIR$/json_demo" />
             <option value="$PROJECT_DIR$/jsonparseforinternet" />
             <option value="$PROJECT_DIR$/layout_weight_demo" />
             <option value="$PROJECT_DIR$/musicplayer" />
@@ -40,11 +33,18 @@
             <option value="$PROJECT_DIR$/myfragmentdemo1" />
             <option value="$PROJECT_DIR$/myfragmentdemo2" />
             <option value="$PROJECT_DIR$/myfragmentdemo3" />
+            <option value="$PROJECT_DIR$/picture_media" />
             <option value="$PROJECT_DIR$/queryphonelocation" />
             <option value="$PROJECT_DIR$/recycleviewdemo" />
             <option value="$PROJECT_DIR$/ringdemo" />
-            <option value="$PROJECT_DIR$/time_service_homework" />
+            <option value="$PROJECT_DIR$/service_demo" />
+            <option value="$PROJECT_DIR$/time_service" />
+            <option value="$PROJECT_DIR$/upload_image" />
+            <option value="$PROJECT_DIR$/weather" />
+            <option value="$PROJECT_DIR$/weather_service" />
             <option value="$PROJECT_DIR$/weatherquery" />
+            <option value="$PROJECT_DIR$/xml_demo" />
+            <option value="$PROJECT_DIR$/yinyuancalculator" />
           </set>
         </option>
       </GradleProjectSettings>
