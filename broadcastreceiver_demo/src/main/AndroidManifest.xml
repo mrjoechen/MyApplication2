@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.chenqiao.broadcastreceiver_demo">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <receiver android:name=".Receiver" >
+            <intent-filter >
+                <action android:name="com.chenqiao.android"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".FirstReceiver" >
+            <intent-filter android:priority="10000">
+                <action android:name="com.chenqiao.orderbroadcast"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".SecondReceiver">
+            <intent-filter android:priority="5000">
+                <action android:name="com.chenqiao.orderbroadcast"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".ThirdReceiver">
+            <intent-filter android:priority="1000">
+                <action android:name="com.chenqiao.orderbroadcast"/>
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

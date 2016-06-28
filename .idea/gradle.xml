@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:\Android\android-studio\gradle\gradle-2.8" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/animation_homework" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/broadcast_demo" />
+            <option value="$PROJECT_DIR$/broadcastreceiver_demo" />
+            <option value="$PROJECT_DIR$/day_11_httpclient_demo" />
+            <option value="$PROJECT_DIR$/day_12_json_demo" />
+            <option value="$PROJECT_DIR$/day_12_weather_homework" />
+            <option value="$PROJECT_DIR$/day_12_xml_demo" />
+            <option value="$PROJECT_DIR$/day_13_activity" />
+            <option value="$PROJECT_DIR$/day_14_activity_register" />
+            <option value="$PROJECT_DIR$/day_14_broadcastreceiver_homework" />
+            <option value="$PROJECT_DIR$/day_14_yinyuancalculator" />
+            <option value="$PROJECT_DIR$/day_15_service_demo" />
+            <option value="$PROJECT_DIR$/day_15_weather_service" />
+            <option value="$PROJECT_DIR$/day_16_picture_media" />
+            <option value="$PROJECT_DIR$/day_17_filter_demo" />
+            <option value="$PROJECT_DIR$/day_18_bindlocalservice" />
+            <option value="$PROJECT_DIR$/day_upload_image" />
+            <option value="$PROJECT_DIR$/download_demo" />
+            <option value="$PROJECT_DIR$/fragment_homework" />
+            <option value="$PROJECT_DIR$/hellocharts-library" />
+            <option value="$PROJECT_DIR$/hellocharts-samples" />
+            <option value="$PROJECT_DIR$/jsonparseforinternet" />
+            <option value="$PROJECT_DIR$/layout_weight_demo" />
+            <option value="$PROJECT_DIR$/musicplayer" />
+            <option value="$PROJECT_DIR$/myanimationdemo" />
+            <option value="$PROJECT_DIR$/myasynctaskdemo" />
+            <option value="$PROJECT_DIR$/myfragmentdemo1" />
+            <option value="$PROJECT_DIR$/myfragmentdemo2" />
+            <option value="$PROJECT_DIR$/myfragmentdemo3" />
+            <option value="$PROJECT_DIR$/queryphonelocation" />
+            <option value="$PROJECT_DIR$/recycleviewdemo" />
+            <option value="$PROJECT_DIR$/ringdemo" />
+            <option value="$PROJECT_DIR$/time_service_homework" />
+            <option value="$PROJECT_DIR$/weatherquery" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

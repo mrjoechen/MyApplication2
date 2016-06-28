@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication2.iml" filepath="$PROJECT_DIR$/MyApplication2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animation_homework/animation_homework.iml" filepath="$PROJECT_DIR$/animation_homework/animation_homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcast_demo/broadcast_demo.iml" filepath="$PROJECT_DIR$/broadcast_demo/broadcast_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastreceiver_demo/broadcastreceiver_demo.iml" filepath="$PROJECT_DIR$/broadcastreceiver_demo/broadcastreceiver_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_11_httpclient_demo/day_11_httpclient_demo.iml" filepath="$PROJECT_DIR$/day_11_httpclient_demo/day_11_httpclient_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_12_json_demo/day_12_json_demo.iml" filepath="$PROJECT_DIR$/day_12_json_demo/day_12_json_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_12_weather_homework/day_12_weather_homework.iml" filepath="$PROJECT_DIR$/day_12_weather_homework/day_12_weather_homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_12_xml_demo/day_12_xml_demo.iml" filepath="$PROJECT_DIR$/day_12_xml_demo/day_12_xml_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_13_activity/day_13_activity.iml" filepath="$PROJECT_DIR$/day_13_activity/day_13_activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_14_activity_register/day_14_activity_register.iml" filepath="$PROJECT_DIR$/day_14_activity_register/day_14_activity_register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_14_broadcastreceiver_homework/day_14_broadcastreceiver_homework.iml" filepath="$PROJECT_DIR$/day_14_broadcastreceiver_homework/day_14_broadcastreceiver_homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_14_yinyuancalculator/day_14_yinyuancalculator.iml" filepath="$PROJECT_DIR$/day_14_yinyuancalculator/day_14_yinyuancalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_15_service_demo/day_15_service_demo.iml" filepath="$PROJECT_DIR$/day_15_service_demo/day_15_service_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_15_weather_service/day_15_weather_service.iml" filepath="$PROJECT_DIR$/day_15_weather_service/day_15_weather_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_16_picture_media/day_16_picture_media.iml" filepath="$PROJECT_DIR$/day_16_picture_media/day_16_picture_media.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_17_filter_demo/day_17_filter_demo.iml" filepath="$PROJECT_DIR$/day_17_filter_demo/day_17_filter_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_18_bindlocalservice/day_18_bindlocalservice.iml" filepath="$PROJECT_DIR$/day_18_bindlocalservice/day_18_bindlocalservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_upload_image/day_upload_image.iml" filepath="$PROJECT_DIR$/day_upload_image/day_upload_image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/download_demo/download_demo.iml" filepath="$PROJECT_DIR$/download_demo/download_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment_homework/fragment_homework.iml" filepath="$PROJECT_DIR$/fragment_homework/fragment_homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hellocharts-library/hellocharts-library.iml" filepath="$PROJECT_DIR$/hellocharts-library/hellocharts-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hellocharts-samples/hellocharts-samples.iml" filepath="$PROJECT_DIR$/hellocharts-samples/hellocharts-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsonparseforinternet/jsonparseforinternet.iml" filepath="$PROJECT_DIR$/jsonparseforinternet/jsonparseforinternet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layout_weight_demo/layout_weight_demo.iml" filepath="$PROJECT_DIR$/layout_weight_demo/layout_weight_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/musicplayer/musicplayer.iml" filepath="$PROJECT_DIR$/musicplayer/musicplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myanimationdemo/myanimationdemo.iml" filepath="$PROJECT_DIR$/myanimationdemo/myanimationdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myasynctaskdemo/myasynctaskdemo.iml" filepath="$PROJECT_DIR$/myasynctaskdemo/myasynctaskdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfragmentdemo1/myfragmentdemo1.iml" filepath="$PROJECT_DIR$/myfragmentdemo1/myfragmentdemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfragmentdemo2/myfragmentdemo2.iml" filepath="$PROJECT_DIR$/myfragmentdemo2/myfragmentdemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myfragmentdemo3/myfragmentdemo3.iml" filepath="$PROJECT_DIR$/myfragmentdemo3/myfragmentdemo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queryphonelocation/queryphonelocation.iml" filepath="$PROJECT_DIR$/queryphonelocation/queryphonelocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recycleviewdemo/recycleviewdemo.iml" filepath="$PROJECT_DIR$/recycleviewdemo/recycleviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ringdemo/ringdemo.iml" filepath="$PROJECT_DIR$/ringdemo/ringdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/time_service_homework/time_service_homework.iml" filepath="$PROJECT_DIR$/time_service_homework/time_service_homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weatherquery/weatherquery.iml" filepath="$PROJECT_DIR$/weatherquery/weatherquery.iml" />
+    </modules>
+  </component>
+</project>

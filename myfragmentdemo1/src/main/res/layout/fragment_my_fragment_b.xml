@@ -1,0 +1,24 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cskoayan.lan.myfragmentdemo1.MyFragmentB">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="理解Fragment的产生背景和使用Fragment的优点（面试的时候可能会问你觉得Fragment的好处是？）
+练习实现上课PPT中介绍的Fragment的例子：实现两个app，一个是for tablet，一个是for phone
+在平板上，一个Activity可以包含两个Fragment。
+在手机上，一个Activity仅包含一个Fragment。
+并新建模拟器在大屏的tablet和 小屏的手机上分别测试。
+体会这样设计的好处。"
+        android:textSize="80sp"/>
+
+    </ScrollView>
+
+</FrameLayout>
