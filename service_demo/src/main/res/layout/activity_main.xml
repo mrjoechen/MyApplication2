@@ -11,23 +11,56 @@
     tools:context="com.example.chenqiao.day_15_service_demo.MainActivity">
 
     <Button
-        android:onClick="click1"
+        android:layout_gravity="center"
+        android:onClick="开启服务"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="开启服务" />
     <Button
-        android:onClick="click2"
+        android:onClick="停止服务"
+        android:layout_gravity="center"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="停止服务" />
     <Button
-        android:onClick="click3"
+        android:onClick="绑定服务"
+        android:layout_gravity="center"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="绑定服务" />
     <Button
-        android:onClick="click4"
+        android:onClick="解绑服务"
+        android:layout_gravity="center"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="解绑服务" />
+
+
+    <EditText
+        android:id="@+id/et_data"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入同步文本"/>
+
+    <Button
+        android:onClick="同步数据"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="同步数据"/>
+
+
+
+    <TextView
+        android:id="@+id/tv_data"
+        android:textSize="80sp"
+        android:layout_gravity="center"
+        android:layout_height="0dp"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:hint="默认文本"
+        />
 </LinearLayout>

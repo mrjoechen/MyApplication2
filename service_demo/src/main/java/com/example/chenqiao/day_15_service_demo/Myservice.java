@@ -3,6 +3,7 @@ package com.example.chenqiao.day_15_service_demo;
 import android.app.Service;
 import android.content.Intent;
 import android.content.ServiceConnection;
+import android.os.Binder;
 import android.os.IBinder;
 import android.support.annotation.Nullable;
 import android.util.Log;
@@ -41,12 +42,13 @@ public class Myservice extends Service {
                     }
 
                     Log.i("MyServcie", count +"");
+                    callback.onDataChange(count + "");
 
                 }
 
             }
         }.start();
-        return null;
+        return new MyBinder();
     }
 
     @Override
@@ -79,7 +81,8 @@ public class Myservice extends Service {
                         e.printStackTrace();
                     }
 
-                    Log.i("MyServcie", count +"");
+                    Log.i("myService", count +"");
+
 
                 }
 
@@ -93,9 +96,21 @@ public class Myservice extends Service {
     @Override
     public void onDestroy() {
         super.onDestroy();
+
+        flag = false;
+
         Log.i("myService","onDestroy");
 
         Toast.makeText(this,"服务已停止",Toast.LENGTH_SHORT).show();
+    }
+
+    @Override
+    public boolean onUnbind(Intent intent) {
+
+        Log.i("myService","onUnbind");
+
+        return super.onUnbind(intent);
+
     }
 
     @Override
@@ -106,4 +121,31 @@ public class Myservice extends Service {
         Toast.makeText(this,"服务已解绑",Toast.LENGTH_SHORT).show();
 
     }
+
+    class MyBinder extends Binder{
+
+        public void setData(String data){
+            count = Integer.parseInt(data);
+        }
+
+        public String getData(){
+
+            return count+"";
+
+        }
+
+        public void setCallback(Callback callback){
+
+            Myservice.this.callback = callback;
+
+        }
+    }
+
+    public Callback callback;
+
+
+    public interface Callback{
+        public void onDataChange(String data);
+    }
+
 }

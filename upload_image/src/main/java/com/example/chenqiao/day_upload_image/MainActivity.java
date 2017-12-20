@@ -87,7 +87,7 @@ public class MainActivity extends ActionBarActivity {
     public void upload(View view){
 
         AsyncHttpClient client = new AsyncHttpClient();
-        String url = "http://192.168.3.6:8080/Day_2_13_FileUpload/servlet/UploadServlet2";
+        String url = "http://192.168.1.101:8080/Day_2_13_FileUpload/servlet/UploadServlet2";
         Log.i("uri",path);
         File file = new File(path);
         RequestParams requestParams = new RequestParams();//使用requestParams进行传递数据
